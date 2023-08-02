@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+li{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50;
+    
+}
