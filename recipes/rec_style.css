@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color:lightseagreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    height:300px;
+}
+
+h1{
+    color:blueviolet;
+    weight:bolder;
+    text-align: center;
+}
+
+h2{
+    color: blueviolet;
+    weight: bold;
+}
+
+.center{
+    text-align: center;
+}
+
+.legend{
+    font-style: italic;
+}
